@@ -17,7 +17,7 @@ public class Esercizio1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("il totale della spesa è: "+listaSpesa());
+        System.out.println("spesa totale: "+listaSpesa());
     }
     public static double listaSpesa(){
         double totale = 0;
