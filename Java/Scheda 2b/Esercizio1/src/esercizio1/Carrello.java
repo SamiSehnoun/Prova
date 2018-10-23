@@ -11,7 +11,7 @@ package esercizio1;
  */
 public class Carrello {
     String cliente;
-    final int N = 1000;
+    final int N = 1001;
     Prodotto []prodotti = new Prodotto[N];
     
     public Carrello(String nome){
