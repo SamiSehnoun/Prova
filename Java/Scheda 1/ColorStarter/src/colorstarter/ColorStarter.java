@@ -26,7 +26,7 @@ public class ColorStarter {
         else if (a.substring(0,4).equals("blue"))
             return "blue";
         }catch(StringIndexOutOfBoundsException err){
-            system.out("ciao");
+            system.out("cippao");
         }
         return "";
         
