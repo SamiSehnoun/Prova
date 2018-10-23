@@ -16,6 +16,9 @@ public class Esercizio3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        public int ciao;
+        public int gio;
+        public int jack_daniels;
     }
     
 }
