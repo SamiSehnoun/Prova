@@ -13,7 +13,7 @@ package esercizio.pkg3;
 public class Magazzino {
     Prodotto []prodotti;
     Prodotto inizio;
-    int N_PRODOTTI = 100;
+    int N_PRODOTTI = 101;
     
     public Magazzino(){
         prodotti = new Prodotto[N_PRODOTTI];
